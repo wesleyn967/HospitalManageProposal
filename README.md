@@ -16,3 +16,5 @@
 > * Refilling prescriptions
 > * View medical bills
 > * Ask general medical questions
+
+![CareNet_Use_Case](https://user-images.githubusercontent.com/122545394/217710137-953ebd39-3883-45ee-ba49-e0686662e975.png)
